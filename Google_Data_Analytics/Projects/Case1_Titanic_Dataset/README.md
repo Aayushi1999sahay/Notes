@@ -30,7 +30,7 @@ The titanic and titanic2 data frames describe the survival status of individual 
   
 <B>This Notebook will show basic examples of:</B><br />
   a) Importing Data with Pandas<br />
-  b) Cleaning data, data sanity <br />
+  b) Cleaning data and data sanity <br />
   c) Null value handling & dataframe handling<br />
   c) Exploring Data through Visualizations with Matplotlib and seaborn<br />
   d) Drawing conclusions<br />
