@@ -3,34 +3,34 @@
 Using data analytics on the famous Titanic Disaster Dataset for knowning the insights about the survival of the passenger.
 It's a quite easy dataset to begin the data analytics journey with. All the best!
 
-About Dataset - 
+<B>About Dataset - </B><br />
 The titanic and titanic2 data frames describe the survival status of individual passengers on the Titanic.
 
-Columns Description -
-  a) PassengerId - Unique id.
-  b) Survived - 0 for No, 1 for Yes.
-  c) Pclass - Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
-  d) Name - Name of the passenger.
-  e) Sex - Gender of the passenger.
-  f) Age - Age of the passenger. 
-  g) SibSp - Number of Siblings/Spouses Aboard
-  h) Parch - Number of Parents/Children Aboard
-  i) Ticket - Ticket Number
-  j) Fare - Ticket Fare
-  k) Cabin - Cabin number
-  l) Embarked - Which Port (C = Cherbourg; Q = Queenstown; S = Southampton)
+<B>Columns Description -</B><br />
+  a) PassengerId - Unique id.<br />
+  b) Survived - 0 for No, 1 for Yes.<br />
+  c) Pclass - Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)<br />
+  d) Name - Name of the passenger.<br />
+  e) Sex - Gender of the passenger.<br />
+  f) Age - Age of the passenger. <br />
+  g) SibSp - Number of Siblings/Spouses Aboard<br />
+  h) Parch - Number of Parents/Children Aboard<br />
+  i) Ticket - Ticket Number<br />
+  j) Fare - Ticket Fare<br />
+  k) Cabin - Cabin number<br />
+  l) Embarked - Which Port (C = Cherbourg; Q = Queenstown; S = Southampton)<br />
   
-Dependencies:
-  a) Python3
-  b) Numpy
-  c) Pandas
-  d) Matplotlib
-  e) Seaborn
-  f) math
+<B>Dependencies:</B><br />
+  a) Python3<br />
+  b) Numpy<br />
+  c) Pandas<br />
+  d) Matplotlib<br />
+  e) Seaborn<br />
+  f) math<br />
   
-This Notebook will show basic examples of:
-  a) Importing Data with Pandas
-  b) Cleaning data, data sanity 
-  c) Null value handling & dataframe handling
-  c) Exploring Data through Visualizations with Matplotlib and seaborn
-  d) Drawing conclusions
+<B>This Notebook will show basic examples of:</B><br />
+  a) Importing Data with Pandas<br />
+  b) Cleaning data, data sanity <br />
+  c) Null value handling & dataframe handling<br />
+  c) Exploring Data through Visualizations with Matplotlib and seaborn<br />
+  d) Drawing conclusions<br />
